@@ -1,0 +1,5 @@
+My name is Rahul. I am 20 years old.
+I study Computer Science in Mumbai.
+I love playing cricket and coding.
+My favourite food is biryani.
+I want to become an AI engineer.

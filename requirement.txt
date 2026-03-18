@@ -1,0 +1,8 @@
+groq
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+pandas
+python-dotenv
+numpy
